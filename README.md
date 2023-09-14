@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nokuta
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python, java, C#, and C++
-- 💞️ I’m looking to collaborate on creating game exploits
+- 🌱 I’m currently learning python, java, javascript, C#, and C++
+- 💞️ I’m looking to develop a game
 - 📫 How to reach me Twitter: @DaLordVon1
 
 <!---
